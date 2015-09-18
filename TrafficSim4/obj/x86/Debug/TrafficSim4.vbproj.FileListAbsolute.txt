@@ -1,0 +1,43 @@
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\TrafficSim4.exe
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\TrafficSim4.pdb
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\TrafficSim4.xml
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.Resources.resources
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.exe
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.xml
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.pdb
+c:\users\krazetta\documents\visual studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.Traffic.resources
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.exe
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.xml
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.pdb
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\TrafficSim4.exe
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\TrafficSim4.pdb
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\TrafficSim4.xml
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.Traffic.resources
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.Resources.resources
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.exe
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.xml
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.pdb
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\TrafficSim4.exe
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\TrafficSim4.pdb
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\TrafficSim4.xml
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.Traffic.resources
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.Resources.resources
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.vbproj.ResolveComReference.cache
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\Interop.WMPLib.dll
+C:\Users\HP Mini\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\obj\x86\Debug\TrafficSim4.vbproj.ResolveComReference.cache
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rizky\Documents\Visual Studio 2010\Projects\TrafficSim4\TrafficSim4\bin\Debug\AxInterop.WMPLib.dll
