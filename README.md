@@ -1,3 +1,3 @@
 # TrafficLightSimulator
 
-Tugas Akhir Mahasiswa nimbingan saya
+Tugas Akhir Mahasiswa bimbingan saya
